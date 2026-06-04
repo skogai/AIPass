@@ -59,8 +59,6 @@ dev = [
 ]
 
 [project.scripts]
-skogagent = "aipass.drone.cli:main"
-skogai = "aipass.aipass.apps.aipass:main"
 drone = "aipass.drone.cli:main"
 aipass = "aipass.aipass.apps.aipass:main"
 
